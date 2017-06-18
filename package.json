@@ -1,0 +1,11 @@
+{
+  "name": "cc.error",
+  "version": "0.1.0",
+  "title": "Error Module",
+  "description": "Library for standardizing error throwing.",
+  "bugs": null,
+  "license": "Apache-2.0",
+  "author": null,
+  "contributors": null,
+  "main": "error.js"
+}
