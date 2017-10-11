@@ -1,8 +1,10 @@
 {
   "name": "cc.error",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "title": "Error Module",
   "description": "Library for standardizing error throwing.",
   "license": "Apache-2.0",
-  "main": "error.js"
+  "pkx" : {
+    "main": "error.js"
+  }
 }
